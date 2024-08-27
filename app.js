@@ -19,6 +19,7 @@ var factor=2;
 var seconds;
 var difficulty=1;
 
+
 displayTest(difficulty);
 
 //on Input
